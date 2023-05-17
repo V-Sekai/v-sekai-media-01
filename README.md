@@ -1,6 +1,6 @@
 # v-sekai-media-01
 
-![Recording 2023-05-16 142841.mp4](Recording 2023-05-16 142841.mp4)
+![vlcsnap-2023-05-17-05h03m50s888](vlcsnap-2023-05-17-05h03m50s888.png)
 
 ## References
 
