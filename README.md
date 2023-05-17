@@ -1,6 +1,6 @@
 # v-sekai-media-01
 
-![vlcsnap-2023-05-17-05h03m50s888](https://github.com/V-Sekai/v-sekai-media-01/assets/32321/77aba63c-b4f8-437f-8adb-01bcc088ae81)
+![Recording 2023-05-16 142841.mp4](Recording 2023-05-16 142841.mp4)
 
 ## References
 
@@ -18,10 +18,8 @@ Creative Commons
 
 ## xr-animator
 
-https://xr-animator.booth.pm/items/4513654 
-
 This license does not apply to content generated from the functionality of System Animator, such as video content generated from the motion capture feature of System Animator using your own assets. System Animator claims no right or responsibility over such content.
 
 Disclaimer: http://www.animetheme.com/system_animator_online/docs/disclaimer.txt
 
-
+https://xr-animator.booth.pm/items/4513654 
