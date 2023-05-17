@@ -20,8 +20,6 @@ Creative Commons
 
 https://xr-animator.booth.pm/items/4513654 
 
-System Animator © Butz Yung/Anime Theme http://www.animetheme.com/sidebar/
-
 This license does not apply to content generated from the functionality of System Animator, such as video content generated from the motion capture feature of System Animator using your own assets. System Animator claims no right or responsibility over such content.
 
 Disclaimer: http://www.animetheme.com/system_animator_online/docs/disclaimer.txt
