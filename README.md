@@ -6,11 +6,15 @@
 
 ## Three-vrm girl
 
+Copyright (c) 2019-2023 pixiv Inc.
+
+MIT License
+
 https://github.com/pixiv/three-vrm
 
 ## Yoga Video
 
-Creative Commons
+Creative Commons Attribution 3.0 Unported https://creativecommons.org/licenses/by/3.0/legalcode
 
 > Aalaya Pilates Latihan Sakit Otot Pinggang - Semua Pilates 30min - Meregangkan sekaligus melatih otot punggung Creative Commons Attribution
 
